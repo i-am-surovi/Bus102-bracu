@@ -23,5 +23,5 @@ https://drive.google.com/drive/folders/1_FLJXfi666GjBIk2zMI9XESv4XyyBHn-
 # Slides Link For Final
 https://drive.google.com/drive/folders/10cn_y-VW-vkV8bQHcRj2s_vrtf-zOD5q
 # Text Book:
-Understanding Business by William G. Nickels (12th edition)
+Understanding Business by William G. Nickels (12th edition)        
 https://drive.google.com/drive/folders/1Fz4mxKoNp1aG7ux6k3pC1-t1VjhMslDB
