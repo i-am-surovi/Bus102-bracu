@@ -1,6 +1,14 @@
 # Bus102-Bracu-Summer23
 This repository contains all documents of BUS102. The students who will do this course under ZHM may benefit from this repository.    
-My faculty was Zaheed Hosein Mohammad Al-Din.    
+My faculty was Zaheed Hosein Mohammad Al-Din.  
+# Mark Distribution (100)
+Attendence - 5%      
+Quiz (2 out of 3) - 20%       
+Individual Assignment - 10%        
+Term Paper (Group Assignment) - 10%       
+Presentation - 5%       
+Mid - 20%      
+Final - 30% 
 # Midterm Syllebus
 The relevant chapters from the textbook (Understanding Business 12th Edition) are:     
 Chapter 1: Taking Risks and Making Profits within the Dynamic Business Environment     
